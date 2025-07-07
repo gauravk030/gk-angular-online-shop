@@ -30,9 +30,11 @@ An e-commerce web application built with **Angular 17**. This frontend-only appl
 
 ### **Installation**
 1. Clone the repository:
-   - git clone: [Project]()
+   - git clone: [Project](https://github.com/gauravk030/gk-angular-online-shop.git)
 2. Install dependencies:
    npm install
+3. Start
+   npm start   
 
 ## **Running the Application**
 
