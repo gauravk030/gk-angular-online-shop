@@ -66,9 +66,12 @@ An e-commerce web application built with **Angular 17**. This frontend-only appl
 - To execute end-to-end tests, add a testing package and run:
 - ng e2e
 
-# **Screen shot
-
-![alt text](./src/assets/images/screenshot/onlline%20shop%20admin.JPG)
+## **Admin screen**
+![alt text](./src/assets/images/screenshot/admin%20screen.JPG)
+## **Home screen**
+![alt text](./src/assets/images/screenshot/home%20screen.JPG)
+## **Store screen**
+![alt text](./src/assets/images/screenshot/store%20screen.JPG)
 
 
 
